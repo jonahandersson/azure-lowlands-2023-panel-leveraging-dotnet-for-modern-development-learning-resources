@@ -13,7 +13,7 @@ Hosted by [Callum Whyte](https://www.linkedin.com/in/callumbwhyte/) at Azure Low
 - [Learn .NET on Microsoft Learn](https://bit.ly/azurelowlands-learndotnet)
 - [Learn Azure for .NET developers](https://bit.ly/azurelowlands-azure-for-dotnet-devs) 
 - [Learn Blazor on .NET - Build your first Blazor App](https://bit.ly/azurelowlands-getstarted-with-dotnetblazor)
--[ Learn .NET Maui Multi-platform App development](https://bit.ly/azurelowlands-learn-dotnet-maui-development) 
+- [Learn .NET Maui Multi-platform App development](https://bit.ly/azurelowlands-learn-dotnet-maui-development) 
 - [Minimal APIs on .NET](https://bit.ly/azurelowlands-minimalapis-dotnet) 
 - [Microsoft .NET Blog](https://bit.ly/azurelowlands-dotnet-blog)
 
